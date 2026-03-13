@@ -186,8 +186,8 @@ Main conclusions from the analysis:
 - Netflix experienced significant growth after **2016**.
 - **Movies dominate** the Netflix catalog compared to TV shows.
 - The **United States is the main producer** of Netflix content.
-- Some genres are significantly more common than others.
-- Movie durations are relatively stable across the dataset.
+- The most common genres in the catalog are drama and comedy, which may reflect the general preferences of the audience.
+- Most films are between 90 and 120 minutes long, which is in line with the standard feature film format.
 
 ---
 
