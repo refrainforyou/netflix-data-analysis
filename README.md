@@ -8,11 +8,13 @@ The goal of the project is to analyze Netflix content and identify patterns in *
 
 # Project Structure
 
+```
 netflix-data-analysis
 │
 ├── netflix_eda.ipynb
 ├── netflix_titles.csv
 └── README.md
+```
 
 ---
 
